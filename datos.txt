@@ -1,0 +1,31 @@
+                        
+                        Primer p - sobre mi
+                        Soy una persona en constante busqueda de aprender y
+                        crecer.
+                        <br />
+                        Entusiasta de la computacion y las cuestiones
+                        relacionadas.
+                        <br />
+                        Siempre busco aprender algo nuevo al dia y mantenerme
+                        actualizado de las tendencias existentes. <br />
+                        Fanatico de leer, jugar y conocer nuevas experiencias.
+
+                        Lista Educacion
+                        <li>
+                            2006 - 2012: Educacion Primaria en Francisco
+                            Gonzalez Bocanegra 30EPR1799Q
+                        </li>
+                        <li>
+                            2012 - 2015: Educacion Secundaria en Telesecundaria
+                            Margarita Guerrero de Gibb 30DTV0357O
+                        </li>
+                        <li>
+                            2015 - 2018: Bachillerato en Colegio de Bachilleres
+                            del Estado de Veracruz COBAEV32 Coatzintla
+                            30ECB0032D
+                        </li>
+                        <li>
+                            2018 - 2023: Ingenieria en Tecnologias
+                            Computacionales en Universidad Veracruzana Facultad
+                            de Ingenieria en Electronica y Comunicaciones
+                        </li>

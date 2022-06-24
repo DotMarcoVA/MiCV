@@ -1,0 +1,68 @@
+body {
+    padding: 20px;
+    background-color: rgb(15 15 15/ 15%);
+}
+
+.contenedor {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    display: flex;
+    box-shadow: 10px 10px 10px 10px rgb(0 0 0 / 25%);
+}
+
+/* Lado Izquierdo */
+.izquierda {
+    width: 350px;
+    background-color: rgb(54, 54, 54);
+    color: white;
+}
+
+.datos {
+    padding-left: 10px;
+}
+
+.skills {
+    padding-left: 10px;
+}
+
+.enlaces {
+    color: white;
+    opacity: 0.6;
+}
+
+.el {
+    line-height: 1.8;
+}
+#nombre {
+    font-size: 24px;
+    padding-left: 10px;
+}
+
+.image-profile {
+    width: 325px;
+}
+
+#fotop:hover {
+    animation: alternate;
+}
+
+/* Lado Derecho */
+
+.derecha {
+    width: 750px;
+    padding: 68px 200px 68px 80px;
+}
+
+.navegacion {
+    font-size: 16px;
+}
+
+.navegacion:hover {
+    font-size: 20px;
+}
+
+.fechas {
+    font-weight: bold;
+}
